@@ -133,7 +133,7 @@ import {
   ];
   
   export const collabText =
-    "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+    "With AI integration and top-notch exercise routines, it's the perfect solution for anyone looking to work smarter and harder. Try out our whole suite of fitness apps.";
   
   export const collabContent = [
     {
@@ -143,11 +143,11 @@ import {
     },
     {
       id: "1",
-      title: "Smart Automation",
+      title: "Personalized Routines",
     },
     {
       id: "2",
-      title: "Top-notch Security",
+      title: "Top-notch Exercises",
     },
   ];
   
